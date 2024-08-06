@@ -13,6 +13,8 @@ I ask every programmer who understands this vision to implement it better than I
 Feel free to improve and further develop this idea and concept :)
 
 Media 432 Hz Harmonizer
+![2024-08-06 07_51_38-Pitch Analyzer](https://github.com/user-attachments/assets/2b7bb381-24af-478c-b789-00db9540567b)
+
 Overview
 
 The Media 432 Hz Harmonizer is a Python-based application that allows users to play audio and video files tuned to 432 Hz using VLC media player. The tool extracts audio from video files, retunes it to 432 Hz, and provides real-time visualization of the audio spectrum. It supports various audio and video formats and is designed for ease of use with a simple graphical user interface (GUI).
